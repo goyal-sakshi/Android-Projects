@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".EditorActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="20dp">
+
+
+        <ImageView
+            android:id="@+id/product_imageView"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_gravity="center"
+            android:layout_marginBottom="12dp"
+            android:scaleType="fitCenter"
+            android:src="@mipmap/ic_launcher" />
+
+        <EditText
+            android:id="@+id/edit_product_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Product Name" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <EditText
+                android:id="@+id/edit_product_quantity"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:layout_weight="4"
+                android:hint="Quantity"
+                android:inputType="number" />
+
+            <Button
+                android:id="@+id/decrement"
+                android:layout_width="44dp"
+                android:layout_height="44dp"
+                android:background="@color/colorAccent"
+                android:text="-"
+                android:textColor="#000000" />
+
+            <Button
+                android:id="@+id/increment"
+                android:layout_width="44dp"
+                android:layout_height="44dp"
+                android:layout_marginLeft="5dp"
+                android:background="@color/colorAccent"
+                android:text="+"
+                android:textColor="#000000" />
+
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="4dp">
+
+            <EditText
+                android:id="@+id/edit_product_price"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:hint="Price"
+                android:inputType="number" />
+
+            <TextView
+                style="@style/EditorUnitsStyle"
+                android:text="Rs" />
+        </RelativeLayout>
+
+        <Button
+            android:id="@+id/select_img_btn"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="16dp"
+            android:background="@color/colorAccent"
+            android:text="Select Image"
+            android:textColor="#000000" />
+
+        <EditText
+            android:id="@+id/customer_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="16dp"
+            android:hint="Your Name" />
+
+        <Button
+            android:id="@+id/order_btn"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="16dp"
+            android:background="@color/colorAccent"
+            android:text="order more"
+            android:textColor="#000000" />
+
+
+    </LinearLayout>
+</ScrollView>

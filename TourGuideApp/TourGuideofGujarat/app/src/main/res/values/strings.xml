@@ -1,0 +1,113 @@
+<resources>
+    <string name="app_name">Tour Guide of Gujarat</string>
+
+    <!--top_sights-->
+    <string name="TS1">Aravalli Range</string>
+    <string name="TS2">Somnath temple</string>
+    <string name="TS3">Sabarmati Ashram</string>
+    <string name="TS4">Girnar</string>
+    <string name="TS5">Kankaria Lake</string>
+    <string name="TS6">Laxmi Vilas Palace</string>
+    <string name="TS7">Akshardham</string>
+
+    <string name="TS1_details">Mountain range running approximately 692 km in a northwest direction</string>
+    <string name="TS2_details">Temple believed to be the first among the twelve jyotirlinga</string>
+    <string name="TS3_details">Site of Hindu spirituality with museum about life and work of former Indian leader, Mahatma Gandhi</string>
+    <string name="TS4_details">Group of mountains in the Junagadh District of Gujarat</string>
+    <string name="TS5_details">Formerly known as Hauz e Qutub, is the second largest lake in Ahmedabad, Gujarat</string>
+    <string name="TS6_details">Massive, 19th-century palace in landscaped surrounds featuring an art museum</string>
+    <string name="TS7_details">Modern 10-story Hindu temple with an elaborately carved sandstone facade and nightly water/laser show.</string>
+
+    <string name="TS1_location">https://www.google.co.in/maps/place/Aravalli+Range/@25.8707216,72.4181829,7z/data=!3m1!4b1!4m5!3m4!1s0x39681ddaac30be25:0x51bcfe8c70434f74!8m2!3d25.2234975!4d73.7477857</string>
+    <string name="TS2_location">https://www.google.co.in/maps/place/Somnath+Temple/@20.8878455,70.3986222,16.75z/data=!4m5!3m4!1s0x3bfd329f0417cb75:0x2f5a510de9857963!8m2!3d20.8879934!4d70.4011621</string>
+    <string name="TS3_location">https://www.google.co.in/maps/place/Sabarmati+Ashram/@23.0607723,72.5786981,17z/data=!3m1!4b1!4m5!3m4!1s0x395e8479e05f1901:0x16cbb1101e5729a3!8m2!3d23.0607723!4d72.5808868</string>
+    <string name="TS4_location">https://www.google.co.in/maps/place/Girnar/@21.5155619,70.474116,12z/data=!3m1!4b1!4m5!3m4!1s0x395806dad3001e03:0xdbf51c9e12a802b2!8m2!3d21.5178869!4d70.5502916</string>
+    <string name="TS5_location">https://www.google.co.in/maps/place/Kankaria+Lake/@23.0062151,72.5989987,17z/data=!3m1!4b1!4m5!3m4!1s0x395e85c51048cefb:0x777f51782a8b7a1a!8m2!3d23.0062573!4d72.6025503</string>
+    <string name="TS6_location">https://www.google.co.in/maps/place/Laxmi+Vilas+Palace/@22.2936294,73.1896483,17z/data=!3m1!4b1!4m5!3m4!1s0x395fc5f0af2653f7:0x21b69c177c300b0b!8m2!3d22.2936294!4d73.191837</string>
+    <string name="TS7_location">https://www.google.co.in/maps/place/Swaminarayan+Akshardham/@23.2330166,72.6725391,17z/data=!3m1!4b1!4m5!3m4!1s0x395c2b0e0167d8e9:0x9777963dd1f06126!8m2!3d23.2330166!4d72.6747278</string>
+
+    <!--famous restaurants-->
+    <string name="FR1">Rajwadu</string>
+    <string name="FR2">Agashiye</string>
+    <string name="FR3">Gordhan Thaal</string>
+    <string name="FR4">Yanki Sizzlers</string>
+    <string name="FR5">Atithi Dinning Hall</string>
+    <string name="FR6">Swati Snacks</string>
+    <string name="FR7">Taste of India</string>
+    <string name="FR8">The Green House</string>
+
+    <string name="FR1_details">Gujurati and Indian dishes\nHours: 11AM–2:30PM, 7–11PM\nPhone: 079 2664 3839</string>
+    <string name="FR2_details">Traditional Gujarati dishes and thalis\nHours: 12–3:30PM, 7–11PM\nPhone: 099099 70113</string>
+    <string name="FR3_details">Hours: 11AM–3PM, 7–10:30PM\nPhone: 079 2687 1222</string>
+    <string name="FR4_details">Vegetarian, meat and seafood sizzlers\nHours: 12–3PM, 7–11PM\nPhone: 079 4038 1616</string>
+    <string name="FR5_details">Gujurati specials\nHours: 11AM–3PM, 7–10PM\nPhone: 079 2685 8806</string>
+    <string name="FR6_details">Street food and traditional snacks\nHours: 12–10:45PM\nPhone: 079 2640 5900</string>
+    <string name="FR7_details">Hours: 7–11PM\nPhone: 0261 653 4116</string>
+    <string name="FR8_details">Hours: 7AM–11PM\nPhone: 099099 70682</string>
+
+    <string name="FR1_location">https://www.google.co.in/maps/place/Rajwadu/@23.0040966,72.5374765,17z/data=!4m5!3m4!1s0x395e852314f59d05:0xc03bb94d0c1624d9!8m2!3d23.0040966!4d72.5396652</string>
+    <string name="FR2_location">https://www.google.co.in/maps/place/Agashiye/@23.0269466,72.5795285,17z/data=!3m1!4b1!4m5!3m4!1s0x395e844fc79401b5:0x4aaab6be669514d4!8m2!3d23.0269466!4d72.5817172</string>
+    <string name="FR3_location">https://www.google.co.in/maps/place/Gordhan+Thaal/@23.0359196,72.5090096,17z/data=!3m1!4b1!4m5!3m4!1s0x395e9adda0b48965:0x104805e3ce90f253!8m2!3d23.0359196!4d72.5111983</string>
+    <string name="FR4_location">https://www.google.co.in/maps/place/Yanki+Sizzlers/@23.0534938,72.5158394,17z/data=!3m1!4b1!4m5!3m4!1s0x395e9b54fd19f401:0xd5b0e10f72b92142!8m2!3d23.0534938!4d72.5180281</string>
+    <string name="FR5_location">https://www.google.co.in/maps/place/Atithi+Dinning+Hall/@23.038104,72.5115973,17z/data=!3m1!4b1!4m5!3m4!1s0x395e9b494fc81805:0x83def9148bb33099!8m2!3d23.038104!4d72.513786</string>
+    <string name="FR6_location">https://www.google.co.in/maps/place/Swati+Snacks/@23.0244149,72.5568036,17z/data=!3m1!4b1!4m5!3m4!1s0x395e84faf7e25ed9:0x3c40b79c8682845d!8m2!3d23.0244149!4d72.5589923</string>
+    <string name="FR7_location">https://www.google.co.in/maps/place/Taste+of+India/@21.1807325,72.8235727,17z/data=!3m1!4b1!4m5!3m4!1s0x3be04e6a39c3e909:0xfd8bf02df5ffb014!8m2!3d21.1807325!4d72.8257614</string>
+    <string name="FR8_location">https://www.google.co.in/maps/place/The+Green+House/@22.4681798,71.5762903,8z/data=!4m8!1m2!2m1!1sThe+Green+House+restaurant+gujarat!3m4!1s0x395e844fbaf03489:0xc74010f0e4edf6df!8m2!3d23.027182!4d72.581723</string>
+
+    <!--historical monuments-->
+    <string name="HM1">Kevda Masjid</string>
+    <string name="HM2">Rudra Mahalaya</string>
+    <string name="HM3">Navlakha Kothar</string>
+    <string name="HM4">Adalaj Stepwell</string>
+    <string name="HM5">Jhulta Minara</string>
+    <string name="HM6">Kamani Masjid</string>
+    <string name="HM7">Talaja Caves</string>
+    <string name="HM8">Teen Darwaza</string>
+
+    <string name="HM1_details"> Champaner\nGujarat 389360</string>
+    <string name="HM2_details">Ambavadi, Siddhpur\nGujarat 384151</string>
+    <string name="HM3_details">Panchmahal\nGujarat 389360</string>
+    <string name="HM4_details">Adalaj\nGujarat 382421</string>
+    <string name="HM5_details">Nr. Kalupur Railway Station Road, Sakar Bazzar, Kalupur\nGujarat 380002</string>
+    <string name="HM6_details">Rayanvadia\nGujarat 389360</string>
+    <string name="HM7_details">Talaja\nGujarat 364140</string>
+    <string name="HM8_details">Bhadra, Ahmedabad\nGujarat 380001</string>
+
+    <string name="HM1_location">https://www.google.co.in/maps/place/Kevda+Masjid/@22.4893661,73.531351,17z/data=!3m1!4b1!4m5!3m4!1s0x39607e4259ecf00b:0x1212f88fd43f0d5a!8m2!3d22.4893661!4d73.5335397</string>
+    <string name="HM2_location">https://www.google.co.in/maps/place/Rudra+Mahalaya/@23.9193249,72.3769266,17z/data=!3m1!4b1!4m5!3m4!1s0x395cf455f2613951:0x63ca5c296a3b5f35!8m2!3d23.9193249!4d72.3791153</string>
+    <string name="HM3_location">https://www.google.co.in/maps/place/Navlakha+Kothar/@22.4672883,73.5093394,17z/data=!3m1!4b1!4m5!3m4!1s0x39607f01fabaab1d:0x38ab8f113608882c!8m2!3d22.4672883!4d73.5115281</string>
+    <string name="HM4_location">https://www.google.co.in/maps/place/Adalaj+Stepwell/@23.1667184,72.5778997,17z/data=!3m1!4b1!4m5!3m4!1s0x395c29dab0c5bf89:0xdb1dddc4bdbd398f!8m2!3d23.1667184!4d72.5800884</string>
+    <string name="HM5_location">https://www.google.co.in/maps/place/Jhulta+Minara/@23.0278036,72.6002364,16.75z/data=!4m8!1m2!2m1!1sAJhulta+Minara+gujarat!3m4!1s0x395e8431ae21585b:0xdea7a7875fc908e2!8m2!3d23.0278374!4d72.6009909</string>
+    <string name="HM6_location">https://www.google.co.in/maps/place/Kamani+Masjid/@22.4829895,73.5449283,17z/data=!3m1!4b1!4m5!3m4!1s0x39607e64b42fce6b:0xbcb46b4f8628346c!8m2!3d22.4829895!4d73.547117</string>
+    <string name="HM7_location">https://www.google.co.in/maps/place/Talaja+Caves/@21.3555328,72.0301863,17z/data=!3m1!4b1!4m5!3m4!1s0x3be1f6a52f54c589:0x790840bb2e82f097!8m2!3d21.3555328!4d72.032375</string>
+    <string name="HM8_location">https://www.google.co.in/maps/place/Teen+Darwaza/@23.0243392,72.5822322,17z/data=!3m1!4b1!4m5!3m4!1s0x395e844105aa3967:0xb8a0d148f01122b2!8m2!3d23.0243392!4d72.5844209</string>
+
+    <!--upcoming events-->
+    <string name="UE1">Furniture Fair</string>
+    <string name="UE2">Garment Technology Expo</string>
+    <string name="UE3">Australian Education Fair</string>
+    <string name="UE4">Photo Video Trade Fair</string>
+    <string name="UE5">Linden Educational Services Fair</string>
+    <string name="UE6">International Travel Roadshow</string>
+    <string name="UE7">Travel and Tourism Fair</string>
+    <string name="UE8">FoodPro Tech</string>
+
+    <string name="UE1_details">SAT, AUGUST 12 - TUE, AUGUST 15 2017\nGujarat University Exhibition Centre</string>
+    <string name="UE2_details">FRI, AUGUST 18 - SUN, AUGUST 20 2017\nEducation Society</string>
+    <string name="UE3_details">WED, AUGUST 23 2017\nCourtyard by Marriott Ahmedabad</string>
+    <string name="UE4_details">FRI, AUGUST 25 - SUN, AUGUST 27 2017\nMahatma Mandir</string>
+    <string name="UE5_details">WED, AUGUST 30 2017\nAhmedabad</string>
+    <string name="UE6_details">WED, AUGUST 30 2017\nAhmedabad</string>
+    <string name="UE7_details">FRI, SEPTEMBER 01 - SUN, SEPTEMBER 03 2017\nAhmedabad</string>
+    <string name="UE8_details">FRI, SEPTEMBER 01 - SUN, SEPTEMBER 03 2017\nMahatma Mandir</string>
+
+    <string name="UE1_location">https://10times.com/furniture-fair-ahmedabad</string>
+    <string name="UE2_location">https://10times.com/garment-technology-expo-ahmedabad</string>
+    <string name="UE3_location">https://10times.com/australian-education-fair-ahmedabad</string>
+    <string name="UE4_location">https://10times.com/photo-video-gandhinagar</string>
+    <string name="UE5_location">https://10times.com/educational-services-fair-ahmedabad</string>
+    <string name="UE6_location">https://10times.com/itr-ahmedabad</string>
+    <string name="UE7_location">https://10times.com/travel-tourism-ahmedabad</string>
+    <string name="UE8_location">https://10times.com/foodpro-tech-asia</string>
+
+</resources>

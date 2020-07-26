@@ -1,0 +1,145 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="BASKETBALL QUIZzz.."
+            android:textSize="30sp"
+            android:padding="10dp"
+            android:gravity="center_horizontal"
+            android:background="#EF5350"
+            android:textColor="#000000"/>
+        <TextView
+            style="@style/ques_text"
+            android:text="1) In which country is basketball a major sport?" />
+
+        <RadioGroup
+            style="@style/radio_group_style"
+            android:orientation="vertical">
+
+            <RadioButton
+                style="@style/radio_text"
+                android:text="Canada" />
+
+            <RadioButton
+                android:id="@+id/correct_ans_1"
+                style="@style/radio_text"
+                android:text="United States of America"/>
+
+            <RadioButton
+                style="@style/radio_text"
+                android:text="United Kingdom " />
+
+            <RadioButton
+                style="@style/radio_text"
+                android:text="Australia" />
+        </RadioGroup>
+
+        <View style="@style/view_line"></View>
+
+        <TextView
+            style="@style/ques_text"
+            android:text="2) When in possession of the ball, what must a player do?" />
+
+        <CheckBox
+            android:id="@+id/incorrect_1"
+            style="@style/checkbox_style"
+            android:text="Stand still" />
+
+        <CheckBox
+            android:id="@+id/incorrect_2"
+            style="@style/checkbox_style"
+            android:text="Run with the ball" />
+
+        <CheckBox
+            android:id="@+id/correct_ans_2a"
+            style="@style/checkbox_style"
+            android:text="Bounce the ball while running" />
+
+        <CheckBox
+            android:id="@+id/correct_ans_2b"
+            style="@style/checkbox_style"
+            android:text="Pass the ball to the team mate" />
+
+        <View style="@style/view_line"></View>
+
+        <TextView
+            style="@style/ques_text"
+            android:text="3) For how long are each team allowed to stay in possession of the ball before they must shoot?"/>
+        <RadioGroup
+            style="@style/radio_group_style"
+            android:orientation="vertical">
+
+            <RadioButton
+                style="@style/radio_text"
+                android:text="10 seconds" />
+
+            <RadioButton
+                style="@style/radio_text"
+                android:text="20 seconds " />
+
+            <RadioButton
+                android:id="@+id/correct_ans_3"
+                style="@style/radio_text"
+                android:text="24 seconds" />
+
+            <RadioButton
+                style="@style/radio_text"
+                android:text="35 seconds " />
+        </RadioGroup>
+
+        <View style="@style/view_line"></View>
+
+        <TextView
+            style="@style/ques_text"
+            android:text="4) This occurs when a player breaks the rules in a way that does not involve contact" />
+
+        <EditText
+            android:id="@+id/correct_ans_4"
+            style="@style/edit_text_style"
+            android:hint="You Answer Here" />
+
+        <View style="@style/view_line"></View>
+
+        <TextView
+            style="@style/ques_text"
+            android:text="5) Two technical fouls result in removal from the game" />
+
+        <RadioGroup
+            style="@style/radio_group_style"
+            android:orientation="vertical">
+
+            <RadioButton
+                android:id="@+id/correct_ans_5"
+                style="@style/radio_text"
+                android:text="true" />
+
+            <RadioButton
+                style="@style/radio_text"
+                android:text="false" />
+
+        </RadioGroup>
+
+        <View style="@style/view_line"></View>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="submit"
+            android:textSize="20sp"
+            android:layout_margin="16dp"
+            android:gravity="center"
+            android:onClick="onSubmit"
+            android:background="#E53935"
+            android:textColor="#000000"/>
+    </LinearLayout>
+</ScrollView>

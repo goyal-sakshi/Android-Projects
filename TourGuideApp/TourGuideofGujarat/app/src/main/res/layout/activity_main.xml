@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/top_sights"
+            style="@style/main_act"
+            android:layout_marginRight="20dp"
+            android:fontFamily="sans-serif-smallcaps"
+            android:background="@color/top_sights"
+            android:text="Top\nSights" />
+
+        <TextView
+            android:id="@+id/famous_restaurants"
+            style="@style/main_act"
+            android:fontFamily="sans-serif-smallcaps"
+            android:background="@color/restaurants"
+            android:text="Famous\nRestaurants" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/historical_monuments"
+            style="@style/main_act"
+            android:layout_marginRight="20dp"
+            android:fontFamily="sans-serif-smallcaps"
+            android:background="@color/monuments"
+            android:text="Historical\nMonuments" />
+
+        <TextView
+            android:id="@+id/upcoming_events"
+            style="@style/main_act"
+            android:background="@color/events"
+            android:fontFamily="sans-serif-smallcaps"
+            android:text="Upcoming\nEvents" />
+
+    </LinearLayout>
+</LinearLayout>

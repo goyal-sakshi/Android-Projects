@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">StoreHouse</string>
+
+    <string name="editor_delete_item_successful">Deletion Successful</string>
+    <string name="editor_delete_item_failed">Deletion Failed</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete_dialog_msg">Item Deleted</string>
+    <string name="keep_editing">Keep Editing</string>
+    <string name="discard">Discard</string>
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+    <string name="editor_update_item_successful">Item updated successfully</string>
+    <string name="editor_update_item_failed">Failed to update item</string>
+    <string name="editor_insert_item_successful">Item saved</string>
+    <string name="editor_insert_item_failed">Error in inserting item</string>
+    <string name="editor_activity_title_edit_item">Edit Item</string>
+    <string name="editor_activity_title_new_item">Add Item</string>
+    <string name="sell_product_failed">No products o sell</string>
+    <string name="external_storage">External storage</string>
+    <string name="permission_title">Permission necessary</string>
+    <string name="permission_message">permission is necessary</string>
+    <string name="permission_denied">Permission Denied</string>
+</resources>
